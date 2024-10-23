@@ -79,3 +79,5 @@ You can customize the script to:
 - Automate the script to run on a schedule using cron jobs.
 - Send notifications or email updates when archiving is complete.
 - Upload the archived file to a remote server or cloud storage.
+
+Project URL: https://roadmap.sh/projects/log-archive-tool
